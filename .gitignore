@@ -1,0 +1,7 @@
+**/*.ai
+**/*.indd
+!**/figures/*
+# html
+**/*.html
+.Rproj.user
+AP01C_corrigendum.Rproj
