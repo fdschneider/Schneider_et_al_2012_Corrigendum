@@ -1,17 +1,11 @@
-# Corrigendum 
-
------
+# Corrigendum to Schneider, Scheu & Brose (2012)
 
 ## "Body mass constraints on feeding rates determine the consequences of predator loss"
-
+original paper published in *Ecology Letters*, 15:436-443, Mai 2012
+doi: 10.1111/j.1461-0248.2012.01750.x
 
 ####  Florian Dirk Schneider<sup>1</sup>*, Stefan Scheu<sup>2</sup> , and Ulrich Brose<sup>2</sup>
 
-
-published in *Ecology Letters*, 15:436-443, Mai 2012
-doi: 10.1111/j.1461-0248.2012.01750.x
-
-----
 
 <sup>1</sup> Institut des Sciences de l‚ÄôEvolution, CNRS, Universit√© Montpellier 2 - CC065, Montpellier Cedex 05, 34095, France
 
@@ -20,7 +14,7 @@ doi: 10.1111/j.1461-0248.2012.01750.x
 \* Correspondence E-mail: florian.schneider@univ-montp2.fr
 
 
-In the simulations for our paper ‚ÄúBody mass constraints on feeding rates determine the consequences of predator loss‚Äù in *Ecology Letters* we discovered a technical flaw which led to erroneous predicted interaction strengths. We apologize for this confusion. 
+In the simulations for our paper "ÄúBody mass constraints on feeding rates determine the consequences of predator loss"Äù in *Ecology Letters* we discovered a technical flaw which led to erroneous predicted interaction strengths. We apologize for this confusion. 
 Here, we provide a corrected set of parameters which produces similar results with regard to the major interpretations of the paper. 
 Additionally, we correct an erroneous count of springtails in one replicate of the experiment, resulting in higher experimental interaction strength of spiders on springtails. 
 However, after these corrections, all interpretations of the paper remain valid.
@@ -43,10 +37,6 @@ The static estimates of feeding rates reported in the paper are correct. The exp
 We are grateful to Tomas Jonsson who brought the mistake to our attention and to Kevin Cazelles for a thorough review of the code.
 
 ## Licenses
-
-### Data
-
-The experimental data are made available under the [Open Database License](http://opendatacommons.org/licenses/odbl/1.0/). Any rights in individual contents of the database are licensed under the [Database Contents License](http://opendatacommons.org/licenses/dbcl/1.0/)
 
 ### Code
 
@@ -72,6 +62,6 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
 
-### Content
+###  Data & Content
 
-<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />The manuscript text and documentation in this repository are licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />The data and text in this repository are part of the <span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Corrigendum to Schneider, Scheu & Brose (2012)</span> by <span xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName">Florian D. Schneider, Stefan Scheu & Ulrich Brose</span> and are licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
