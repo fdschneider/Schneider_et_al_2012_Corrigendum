@@ -54,7 +54,8 @@ O2 consumption in an electrolytic microrespirometer (see Schneider & Brose 2013 
 
 ## License
 
-The experimental data are made available under the [Open Database License](http://opendatacommons.org/licenses/odbl/1.0/). Any rights in individual contents of the database are licensed under the [Database Contents License](http://opendatacommons.org/licenses/dbcl/1.0/)
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />The data and text in this repository are part of the <span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Corrigendum to Schneider, Scheu & Brose (2012)</span> by <span xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName">Florian D. Schneider, Stefan Scheu & Ulrich Brose</span> and are licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
+
 
 ----
 
