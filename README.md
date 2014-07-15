@@ -22,8 +22,7 @@ However, after these corrections, all interpretations of the paper remain valid.
 As a consequence of these mistakes, we commit ourselves to
 transparent and reproducible computational research by providing
 raw data and the full simulation code as an open
-access repository on GitHub (https://github.com/fdschneider/
-Schneider_et_al_2012_Corrigendum).
+access repository on GitHub (https://github.com/fdschneider/Schneider_et_al_2012_Corrigendum).
 
 ### Parameter selection
 All equations and allometric exponents given in the paper remain valid. We refined few parameters to reproduce interaction strengths matching the experiment similarly well as in the original publication: The parameters of the Ricker function (eq 2 in the paper, success rate) $R_\mathrm{opt} = 200$, $γ = 1$; the normalisation constants of attack rate $a_0 = 0.15$ and handling time $h_0 = 8.0$. All parameters are still in the range of previously documented values (references in original paper). Both, the original and corrected simulations were initialised with densities $N_1 = 912$, $N_2 = 350$, $N_3 = 4$, $N_4 = 2$ and body masses $M_1 = 0.0104$, $M_2 = 0.157$, $M_3 = 25.69$ and $M_4 = 125.3$ [mg], for springtails, predatory mites, spiders and centipedes, respectively (the body masses reported in the paper were rounded to one digit less). In the simulations we did not assume a delayed restocking of mites as it was the case in the experiment. Simulations ran over a time of 1152 hours.
