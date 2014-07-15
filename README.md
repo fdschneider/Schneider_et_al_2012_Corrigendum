@@ -14,19 +14,23 @@ doi: 10.1111/j.1461-0248.2012.01750.x
 \* Correspondence E-mail: florian.schneider@univ-montp2.fr
 
 
-In the simulations for our paper "ÄúBody mass constraints on feeding rates determine the consequences of predator loss"Äù in *Ecology Letters* we discovered a technical flaw which led to erroneous predicted interaction strengths. We apologize for this confusion. 
+In the simulations for our paper "Body mass constraints on feeding rates determine the consequences of predator loss" in *Ecology Letters* we discovered a technical flaw which led to wrong predictions of interaction strengths. We apologize for this confusion. 
 Here, we provide a corrected set of parameters which produces similar results with regard to the major interpretations of the paper. 
 Additionally, we correct an erroneous count of springtails in one replicate of the experiment, resulting in higher experimental interaction strength of spiders on springtails. 
 However, after these corrections, all interpretations of the paper remain valid.
 
-As a consequence of these mistakes, we commit ourselves to transparent computational research by providing raw data and the full simulation code as online supplementary files with this corrigendum.
+As a consequence of these mistakes, we commit ourselves to
+transparent and reproducible computational research by providing
+raw data and the full simulation code as an open
+access repository on GitHub (https://github.com/fdschneider/
+Schneider_et_al_2012_Corrigendum).
 
 ### Parameter selection
-All equations and allometric exponents given in the paper remain valid. We refined few parameters to reproduce interaction strengths matching the experiment similarly well as in the original publication: The parameters of the Ricker function (eq 2 in the paper, success rate) $R_\mathrm{opt} = 200$, $Œ≥ = 1$; the normalisation constants of attack rate $a_0 = 0.15$ and handling time $h_0 = 8.0$. All parameters are still in range of previously documented values (Refs). Both, the original and corrected simulations were initialised with densities $N_1 = 912$, $N_2 = 350$, $N_3 = 4$, $N_4 = 2$ and body masses $M_1 = 0.0104$, $M_2 = 0.157$, $M_3 = 25.69$ and $M_4 = 125.3$ [mg], for springtails, predatory mites, spiders and centipedes, respectively (the body masses reported in the paper were rounded to one digit less). In the simulations, we did not assume a delayed restocking of mites as it was the case in the experiment. Simulations ran over a time of 1152 hours.
+All equations and allometric exponents given in the paper remain valid. We refined few parameters to reproduce interaction strengths matching the experiment similarly well as in the original publication: The parameters of the Ricker function (eq 2 in the paper, success rate) $R_\mathrm{opt} = 200$, $Œ≥ = 1$; the normalisation constants of attack rate $a_0 = 0.15$ and handling time $h_0 = 8.0$. All parameters are still in the range of previously documented values (references in original paper). Both, the original and corrected simulations were initialised with densities $N_1 = 912$, $N_2 = 350$, $N_3 = 4$, $N_4 = 2$ and body masses $M_1 = 0.0104$, $M_2 = 0.157$, $M_3 = 25.69$ and $M_4 = 125.3$ [mg], for springtails, predatory mites, spiders and centipedes, respectively (the body masses reported in the paper were rounded to one digit less). In the simulations we did not assume a delayed restocking of mites as it was the case in the experiment. Simulations ran over a time of 1152 hours.
 
 ### Results
 
-The static estimates of feeding rates reported in the paper are correct. The experimental and simulated $IS_{ij}$ were positively correlated at the population level ($r = 0.91$; $P < 0.001$; Fig. 4*b*), whereas the positive correlation at the per capita level was only marginally significant ($r = 0.49$; $P = 0.093$). 
+The statical estimates of feeding rates reported in the paper are correct. The experimental and simulated $IS_{ij}$ were positively correlated at the population level ($r = 0.91$; $P < 0.001$; Fig. 4*b*), whereas the positive correlation at the per capita level was only marginally significant ($r = 0.49$; $P = 0.093$). 
 
 ![Fig 4 (b) All population ISij of simulation (corrected) vs. experiment; dark green: effects of centipedes; green: effects of spider; light green: effects of mites.](manuscript/schneider_fig4b.png)
 
@@ -44,23 +48,11 @@ The MIT License (MIT)
 
 Copyright (C) 2014  Schneider, Scheu & Brose
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
-The above copyright notice and this permission notice shall be included in
-all copies or substantial portions of the Software.
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
-THE SOFTWARE.
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 ###  Data & Content
 
