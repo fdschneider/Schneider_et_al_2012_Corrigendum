@@ -13,6 +13,7 @@ doi: 10.1111/j.1461-0248.2012.01750.x
 
 \* Correspondence E-mail: florian.schneider@univ-montp2.fr
 
+[![DOI](https://zenodo.org/badge/4927/fdschneider/Schneider_et_al_2012_Corrigendum.png)](http://dx.doi.org/10.5281/zenodo.10878)
 
 In the simulations for our paper "Body mass constraints on feeding rates determine the consequences of predator loss" in *Ecology Letters* we discovered a technical flaw which led to wrong predictions of interaction strengths. We apologize for this confusion. 
 Here, we provide a corrected set of parameters which produces similar results with regard to the major interpretations of the paper. 

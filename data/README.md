@@ -2,6 +2,8 @@
 
 authors: Florian Dirk Schneider<sup>1</sup>*, Stefan Scheu<sup>2</sup> , and Ulrich Brose<sup>2</sup>
 
+[![DOI](https://zenodo.org/badge/4927/fdschneider/Schneider_et_al_2012_Corrigendum.png)](http://dx.doi.org/10.5281/zenodo.10878)
+
 ## Description
 
 Initial and final population and biomass densities of full factorial combinations of three arthropod predator populations on one basal springtail population. 
